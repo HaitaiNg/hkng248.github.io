@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "haitai's ocr list"
-date: 2018-09-29 
+date: 2021-09-15
 ---
 
 </p>
